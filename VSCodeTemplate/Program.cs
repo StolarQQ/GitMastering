@@ -27,5 +27,7 @@ namespace VSCodeTemplate
             System.Console.WriteLine("Added new feature #1");
             System.Console.WriteLine("Added new feature #2");
             System.Console.WriteLine("Added new feature #3");
+
+            System.Console.WriteLine("Github pull request");
     }
 }
