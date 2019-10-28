@@ -22,6 +22,8 @@ namespace VSCodeTemplate
 
             portfolio.AddProject("Netflix imitation project");
             Console.WriteLine("Added fake netflix project to portfolio");
-        }
+
+
+            System.Console.WriteLine("Added new feature #1");
     }
 }
