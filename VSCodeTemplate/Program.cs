@@ -17,12 +17,11 @@ namespace VSCodeTemplate
             var portfolio = new Portfolio();
 
             portfolio.AddProject("Teris: Game");
-
             Console.WriteLine("Added tetris project to portfolio");
 
 
-
-
+            portfolio.AddProject("Netflix imitation project");
+            Console.WriteLine("Added fake netflix project to portfolio");
         }
     }
 }
