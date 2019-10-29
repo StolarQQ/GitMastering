@@ -32,6 +32,6 @@ namespace VSCodeTemplate
 
             System.Console.WriteLine("Testing remote tags");
 
-            System.Console.WriteLine("Cherry pick");
+            System.Console.WriteLine("Cherry pick XD RESET");
     }
 }
