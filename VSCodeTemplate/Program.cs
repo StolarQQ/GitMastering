@@ -31,5 +31,7 @@ namespace VSCodeTemplate
             System.Console.WriteLine("Github pull request");
 
             System.Console.WriteLine("Testing remote tags");
+
+            System.Console.WriteLine("Cherry pick");
     }
 }
